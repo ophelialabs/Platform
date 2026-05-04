@@ -34,14 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9BdXRoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/Components/Pages/Check/Fleet.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9GbGVldC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/Components/Pages/Check/Globe.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9HbG9iZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/Components/Pages/Check/Maps.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGVjay9NYXBzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -324,6 +316,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/Components/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/Components/Pages/Research/Fleet.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9SZXNlYXJjaC9GbGVldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/Components/Pages/Research/Globe.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9SZXNlYXJjaC9HbG9iZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/Components/Pages/Research/Journals/Index.razor]

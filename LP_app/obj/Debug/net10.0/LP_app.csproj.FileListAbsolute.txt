@@ -524,3 +524,4 @@
 /Users/jaylabs/Downloads/Learning_Platform-main/LP_app/obj/Debug/net10.0/ref/LP_app.dll
 /Users/jaylabs/Downloads/Learning_Platform-main/LP_app/obj/Debug/net10.0/compressed/e0ru4umo7t-{0}-exfrbd4bw2-exfrbd4bw2.gz
 /Users/jaylabs/Downloads/Learning_Platform-main/LP_app/obj/Debug/net10.0/compressed/oqhzhh0lde-{0}-exfrbd4bw2-exfrbd4bw2.gz
+/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/obj/Debug/net10.0/LP_app.sourcelink.json
