@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8wHdA7aJ5A=",
+  "success": true,
+  "projectFilePath": "/Users/jaylabs/Downloads/Learning_Platform-main/LP_app/LP_app.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaylabs/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0-rc.1.25451.107/microsoft.aspnetcore.app.internal.assets.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}
