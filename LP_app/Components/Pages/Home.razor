@@ -19,30 +19,16 @@
         <div class="courses-grid">
             <div class="course-card">
                 <div class="course-icon"></div>
-                <h3>Nuget</h3>
-                <p>Learn to use Nuget Packages and Libraries</p>
-                <a href="https://nuget.org/" class="btn btn-sm btn-primary">Explore</a>
-            </div>
-            <div class="course-card">
-                <div class="course-icon"></div>
                 <h3>.NET</h3>
                 <p>Learn the fundamentals of .NET development and build modern applications.</p>
                 <a href="https://learn.microsoft.com/en-us/dotnet/?WT.mc_id=dotnet-35129-website" class="btn btn-sm btn-primary">Explore</a>
             </div>
             <div class="course-card">
                 <div class="course-icon"></div>
-                <h3>Aspire</h3>
-                <p>dotnet workload install aspire</p>
-                <p>dotnet new install Aspire.ProjectTemplates</p>
-                <p>dotnet new aspire-starter -o MyFirstAspireApp</p>
-                <a href="https://aspire.dev/integrations/cloud/azure/overview/" class="btn btn-sm btn-primary">Explore</a>
+                <h3>Nuget</h3>
+                <p>Learn to use Nuget Packages and Libraries</p>
+                <a href="https://nuget.org/" class="btn btn-sm btn-primary">Explore</a>
             </div>
-            <div class="course-card">
-                <div class="course-icon"></div>
-                <h3>Microsoft Agent Framework</h3>
-                <p>dotnet new install Microsoft.AgentFramework.Templates</p>
-                <p>dotnet new agentframework-csharp -o MyAgentFrameworkCSharpApp</p>
-                <a href="https://docs.copilotkit.ai/microsoft-agent-framework" class="btn btn-sm btn-primary">Explore</a>
 
             <!-- Pre-built UI Component Libraries for Blazor -->
             <div class="course-card">
@@ -54,6 +40,8 @@
                         Explore Tools
                     </button>
                     <ul class="dropdown-menu" aria-labelledby="Dropdown">
+                        <li><a class="dropdown-item" href="https://aspire.dev/integrations/cloud/azure/overview/" target="_blank">Aspire</a></li>
+                        <li><a class="dropdown-item" href="https://www.syncfusion.com/blazor-components" target="_blank">Syncfusion Blazor</a></li>
                         <li><a class="dropdown-item" href="https://www.fluentui-blazor.net/" target="_blank">Fluent UI</a></li>
                         <li><a class="dropdown-item" href="https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-getting-started" target="_blank">Ignite UI</a></li>
                         <li><a class="dropdown-item" href="https://www.radzen.com/blazor-studio" target="_blank">Radzen</a></li>
@@ -65,6 +53,10 @@
             </div>
 
 <!-- 
+dotnet workload install aspire
+dotnet new install Aspire.ProjectTemplates
+dotnet new aspire-starter -o MyFirstAspireApp
+
 dotnet new install Microsoft.FluentUI.AspNetCore.Templates
 dotnet new fluentui-blazor -o MyFluentUIBlazorApp
 
@@ -77,6 +69,21 @@ dotnet new radzen-blazor -o MyRadzenBlazorApp
 dotnet new install Telerik.Blazor.Templates
 dotnet new telerik-blazor -o MyTelerikBlazorApp
 -->
+
+            <div class="course-card">
+                <div class="course-icon"></div>
+                <h3>Microsoft Agent Framework</h3>
+                <p></p>
+                <a href="https://docs.copilotkit.ai/microsoft-agent-framework" class="btn btn-sm btn-primary">Explore</a>
+                <a href="https://learn.microsoft.com/en-us/agent-framework/get-started/your-first-agent?pivots=programming-language-csharp" class="btn btn-sm btn-secondary">Get Started</a>
+                <a href="https://learn.microsoft.com/en-us/azure/ai-services/?WT.mc_id=azure-35129-website" class="btn btn-sm btn-secondary">Foundry</a>
+            </div>
+            <div class="course-card">
+                <div class="course-icon"></div>
+                <h3>Linux Kernel</h3>
+                <p>Linux kernel coding style</p>
+                <a href="https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst" class="btn btn-sm btn-primary">Explore</a>
+            </div>
 
             <!-- Design Tools for UI/UX -->
             <div class="course-card">
@@ -96,6 +103,37 @@ dotnet new telerik-blazor -o MyTelerikBlazorApp
                     </ul>
                 </div>
             </div>
+
+            <!-- Deployment Platforms -->
+            <div class="course-card">
+                <div class="course-icon"></div>
+                <h3>Deployment Platforms</h3>
+                <p>Learn about popular deployment platforms for hosting your applications</p>
+                <a href="https://ophelialabs2.github.io/JB_template/2-1/#deployment" class="btn btn-sm btn-primary">Docs</a>
+                <div class="dropdown">
+                    <button class="btn btn-sm btn-primary dropdown-toggle" type="button" id="deploymentPlatformsDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        Explore Platforms
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="Dropdown">
+                        <li><a class="dropdown-item" href="https://azure.microsoft.com/en-us/services/app-service/" target="_blank">Microsoft Azure App Service</a></li>
+                        <li><a class="dropdown-item" href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">AWS Elastic Beanstalk</a></li>
+                        <li><a class="dropdown-item" href="https://cloud.google.com/appengine" target="_blank">Google Cloud Platform App Engine</a></li>
+                        <li><a class="dropdown-item" href="https://www.heroku.com/" target="_blank">Heroku</a></li>
+                        <li><a class="dropdown-item" href="https://www.vultr.com/products/app-deployment/" target="_blank">Vultr App Deployment</a></li>
+                        <li><a class="dropdown-item" href="https://www.linode.com/products/app-platform/" target="_blank">Linode App Platform</a></li>
+                        <li><a class="dropdown-item" href="https://www.appveyor.com/" target="_blank">AppVeyor</a></li>
+                        <li><a class="dropdown-item" href="https://www.fly.io/" target="_blank">Fly.io</a></li>
+                        <li><a class="dropdown-item" href="https://www.render.com/" target="_blank">Render</a></li>
+                        <li><a class="dropdown-item" href="https://www.netlify.com/" target="_blank">Netlify</a></li>
+                        <li><a class="dropdown-item" href="https://avaloniaui.net/" target="_blank">Avalonia</a></li>
+                        <li><a class="dropdown-item" href="https://www.heroku.com/" target="_blank">CloudFlare</a></li>
+                        <li><a class="dropdown-item" href="https://octopus.com/" target="_blank">Octopus</a></li>
+                        <li><a class="dropdown-item" href="https://www.digitalocean.com/products/app-platform/" target="_blank">DigitalOcean App Platform</a></li>
+                        <li><a class="dropdown-item" href="https://www.pivotaltracker.com/" target="_blank">Pivotal Cloud Foundry</a></li>
+                        <li><a class="dropdown-item" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">Red Hat OpenShift</a></li>
+                        <li><a class="dropdown-item" href="https://www.ibm.com/cloud/cloud-foundry" target="_blank">IBM Cloud Foundry</a></li>
+                        <li><a class="dropdown-item" href="https://www.oracle.com/cloud/platform/application-development/" target="_blank">Oracle Cloud Application Development</a></li>
+                    </ul>   
         </div>
     </div>
 </section>
