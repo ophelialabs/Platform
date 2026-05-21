@@ -1,6 +1,6 @@
 [Solr](https://apache.github.io/solr-operator/docs/solr-prometheus-exporter/#prometheus-stack)
 | [Lunr](https://lunrjs.com/)
-(compare to chosen "theme")
+(compare to chosen "theme" NOT light, dark)
 
 ![banner](LP_app/public/LP.png)
 
