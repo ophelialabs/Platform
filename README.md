@@ -2,6 +2,7 @@
 | [Lunr](https://lunrjs.com/)
 (compare to chosen "theme" NOT light, dark)
 - [Academic Disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
+- [Importance of Tags](https://share.google/aimode/gTrxyJvucYBIiUFOR)
 
 ![banner](LP_app/public/LP.png)
 
