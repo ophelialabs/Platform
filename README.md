@@ -1,4 +1,4 @@
-[SolR](https://apache.github.io/solr-operator/docs/solr-prometheus-exporter/#prometheus-stack)
+[Solr](https://apache.github.io/solr-operator/docs/solr-prometheus-exporter/#prometheus-stack)
 | [Lunr](https://lunrjs.com/)
 
 ![banner](LP_app/public/LP.png)
