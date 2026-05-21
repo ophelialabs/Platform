@@ -1,6 +1,7 @@
 [Solr](https://apache.github.io/solr-operator/docs/solr-prometheus-exporter/#prometheus-stack)
 | [Lunr](https://lunrjs.com/)
 (compare to chosen "theme" NOT light, dark)
+- [Academic Disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
 
 ![banner](LP_app/public/LP.png)
 
