@@ -1,6 +1,6 @@
 [Solr](https://apache.github.io/solr-operator/docs/solr-prometheus-exporter/#prometheus-stack) (Kubernetes, S3)
 | [Lunr](https://lunrjs.com/) (A bit like Solr, but much smaller and not as bright.)
-- (compare to chosen "theme" NOT light, dark)
+- [Fluent](https://www.fluentui-blazor.net/) | [Telerik](https://demos.telerik.com/) | [Ignite-UI](https://www.infragistics.com/products/ignite-ui-blazor) | [Blazorise](https://demos.blazorise.com/wasm/bootstrap4/)
 
 ---
   
