@@ -4,7 +4,7 @@
 
   * [.Net](https://github.com/ophelialabs/Learning_Platform) / [Avalonia](https://avaloniaui.net/), Maui, Blazor > [AppVeyor](https://www.appveyor.com/)
   * [CopilotKit](https://github.com/ophelialabs/maf.net) / React > [CF Pages]()
-  * 
+   
 ---
   
 [Academic Disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
