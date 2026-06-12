@@ -1,4 +1,6 @@
 # Getting Started
+- [Fluent-UI](https://www.fluentui-blazor.net/)
+  | [AD](https://entra.microsoft.com)
 
 ## Dashboards
 ### C2
