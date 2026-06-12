@@ -61,4 +61,14 @@ blog.Url = "https://learn.microsoft.com/en-us/ef/core/";
 db.SaveChanges();
 ```
 
-
+## Deployment
+- [Heroku](https://www.heroku.com/)
+| [Vultr App Deployment](https://www.vultr.com/products/app-deployment/)
+| [Linode App Platform](https://www.linode.com/products/app-platform/
+| [AppVeyor](https://www.appveyor.com/
+| [Fly.io](https://www.fly.io/
+| [Render](https://www.render.com/
+| [Netlify](https://www.netlify.com/
+| [Avalonia](https://avaloniaui.net/
+| [CloudFlare](https://www.heroku.com/
+| [Octopus](https://octopus.com/
