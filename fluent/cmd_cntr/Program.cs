@@ -1,4 +1,5 @@
 using cmd_cntr.Components;
+using cmd_cntr.Services;
 using Microsoft.FluentUI.AspNetCore.Components;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 builder.Services.AddFluentUIComponents();
+builder.Services.AddScoped<AuthService>();
 
 var app = builder.Build();
 

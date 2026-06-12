@@ -1,0 +1,181 @@
+@page "/login"
+@rendermode InteractiveServer
+@using cmd_cntr.Services
+@using System.Security.Claims
+@inject AuthService AuthService
+@inject NavigationManager Navigation
+
+<div class="login-container">
+    <div class="login-card">
+        <div class="login-header">
+            <h1>DARPA NESD</h1>
+            <p>Command & Control Dashboard</p>
+        </div>
+
+        <div class="login-body">
+            <h2>Sign in</h2>
+
+            <div class="role-selection">
+                <p class="role-label">Select your role:</p>
+                <div class="role-buttons">
+                    <button class="role-btn commander" @onclick="SignInCommander">
+                        <span class="role-icon">C</span>
+                        <span class="role-name">Commander</span>
+                        <span class="role-desc">Full dashboard access</span>
+                    </button>
+                    <button class="role-btn physician" @onclick="SignInPhysician">
+                        <span class="role-icon">M</span>
+                        <span class="role-name">Physician</span>
+                        <span class="role-desc">Medical data access</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="demo-info">
+                <p>This is a demonstration portal. Select your role to proceed.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private void SignInCommander()
+    {
+        AuthService.Login("Commander One", "commander");
+        Navigation.NavigateTo("/");
+    }
+
+    private void SignInPhysician()
+    {
+        AuthService.Login("Dr. Medical Professional", "physician");
+        Navigation.NavigateTo("/");
+    }
+}
+
+<style>
+    .login-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .login-card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        max-width: 500px;
+        width: 90%;
+        overflow: hidden;
+    }
+
+    .login-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 40px 30px;
+        text-align: center;
+    }
+
+    .login-header h1 {
+        margin: 0;
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .login-header p {
+        margin: 8px 0 0 0;
+        font-size: 14px;
+        opacity: 0.9;
+    }
+
+    .login-body {
+        padding: 40px 30px;
+    }
+
+    .login-body h2 {
+        margin: 0 0 30px 0;
+        font-size: 24px;
+        color: #333;
+    }
+
+    .role-label {
+        margin: 0 0 20px 0;
+        color: #666;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .role-buttons {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+        margin-bottom: 30px;
+    }
+
+    .role-btn {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 25px 15px;
+        border: 2px solid #e0e0e0;
+        border-radius: 8px;
+        background: white;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        font-family: inherit;
+    }
+
+    .role-btn:hover {
+        border-color: #667eea;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+    }
+
+    .role-btn.commander:hover,
+    .role-btn.physician:hover {
+        background-color: #f8f9ff;
+    }
+
+    .role-icon {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+
+    .role-name {
+        font-weight: 600;
+        color: #333;
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .role-desc {
+        font-size: 12px;
+        color: #999;
+    }
+
+    .demo-info {
+        background: #f0f4ff;
+        border-left: 4px solid #667eea;
+        padding: 15px;
+        border-radius: 4px;
+        font-size: 13px;
+        color: #555;
+    }
+
+    .demo-info p {
+        margin: 0;
+    }
+
+    @@media (max-width: 480px) {
+        .role-buttons {
+            grid-template-columns: 1fr;
+        }
+
+        .login-card {
+            border-radius: 0;
+        }
+    }
+</style>

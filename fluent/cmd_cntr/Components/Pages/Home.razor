@@ -1,8 +1,48 @@
 ﻿@page "/"
+@rendermode InteractiveServer
+@using cmd_cntr.Services
+@inject AuthService AuthService
 
-<PageTitle>Home</PageTitle>
+<PageTitle>DARPA NESD - Dashboard</PageTitle>
 
-<h1>Hello, world!</h1>
+<div class="dashboard-header">
+    <h1>DARPA NESD Command & Control</h1>
+    <p class="role-badge">Role: <strong>@(AuthService.GetRole()?.ToUpper() ?? "UNKNOWN")</strong></p>
+</div>
 
-Welcome to your new Fluent Blazor app.
-The idea
+@if (AuthService.HasRole("commander"))
+{
+    <CommanderDashboard />
+}
+else if (AuthService.HasRole("physician"))
+{
+    <PhysicianDashboard />
+}
+else
+{
+    <p>No dashboard available for your role.</p>
+}
+
+<style>
+    .dashboard-header {
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        border-bottom: 2px solid #e0e0e0;
+    }
+
+    .dashboard-header h1 {
+        margin: 0 0 10px 0;
+        font-size: 32px;
+        color: #333;
+    }
+
+    .role-badge {
+        margin: 0;
+        font-size: 14px;
+        color: #666;
+    }
+
+    .role-badge strong {
+        color: #667eea;
+    }
+</style>
