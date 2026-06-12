@@ -23,7 +23,7 @@
     | [DANDI](https://www.braininitiative.org/toolmakers/resources/dandi/)
     | [BrainRender](https://github.com/brainglobe/brainrender)
 - Refs:
-    | [DartBrains](https://dartbrains.org/Introduction_to_Neuroimaging_Data/)
+     [DartBrains](https://dartbrains.org/Introduction_to_Neuroimaging_Data/)
 
 ### Financial Dashboard
 - [View Fintech Dashboard](https://www.telerik.com/design-system/docs/templates/previews/fintech-dashboard/)
