@@ -1,7 +1,8 @@
 # Getting Started
 - [Fluent-UI](https://www.fluentui-blazor.net/)
   | [AD](https://entra.microsoft.com)
-
+- [Generic Constraints](https://www.youtube.com/watch?v=0qtwYT4n2CM) / [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
+- 
 ## Dashboards
 ### C2
 - [Saturn](https://ophelialabs.github.io/internal/apps/saturn.html)
