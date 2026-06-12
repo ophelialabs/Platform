@@ -21,7 +21,7 @@
 - APIs here
     | [DABI](https://dabi.loni.usc.edu/)
     | [DANDI](https://www.braininitiative.org/toolmakers/resources/dandi/)
-    
+    | [BrainRender](https://github.com/brainglobe/brainrender)
 
 ### Financial Dashboard
 - [View Fintech Dashboard](https://www.telerik.com/design-system/docs/templates/previews/fintech-dashboard/)
