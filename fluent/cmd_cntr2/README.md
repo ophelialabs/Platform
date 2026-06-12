@@ -19,7 +19,7 @@
     | [Blazor Healthcare Dashboard](https://demos.telerik.com/blazor-healthcare/patients)
     | [.NET Core Healthcare Dashboard](https://demos.telerik.com/aspnet-core-healthcare/patients)
 - APIs:
-    | [DABI](https://dabi.loni.usc.edu/)
+     [DABI](https://dabi.loni.usc.edu/)
     | [DANDI](https://www.braininitiative.org/toolmakers/resources/dandi/)
     | [BrainRender](https://github.com/brainglobe/brainrender)
 
@@ -28,7 +28,7 @@
     | [Kendo React Personal Finance](https://telerik.github.io/kendo-react/kendo-react-personal-finance/transactions)
     | [Blazor Financial Dashboard](https://demos.telerik.com/blazor-financial-dashboard)
     | [.Net Core Finance Dashboard](https://demos.telerik.com/aspnet-core/finance-dashboard)
-- APIs here
+- APIs:
 
 ## DataBase
 - [EF Core](https://learn.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
