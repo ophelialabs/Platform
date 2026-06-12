@@ -62,7 +62,8 @@ db.SaveChanges();
 ```
 
 ## Deployment
-- [Heroku](https://www.heroku.com/)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
+| [Heroku](https://www.heroku.com/)
 | [Vultr App Deployment](https://www.vultr.com/products/app-deployment/)
 | [Linode App Platform](https://www.linode.com/products/app-platform/)
 | [AppVeyor](https://www.appveyor.com/)
