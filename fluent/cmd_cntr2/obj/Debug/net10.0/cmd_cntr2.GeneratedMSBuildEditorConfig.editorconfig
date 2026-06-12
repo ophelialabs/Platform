@@ -46,12 +46,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9EYXNoYm9hcmRzL1BoeXNpY2lhbkRhc2hib2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/fleetmanager.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9mbGVldG1hbmFnZXIucmF6b3I=
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Fincen.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9GaW5jZW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/globe.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9nbG9iZS5yYXpvcg==
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Fleetmanager.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9GbGVldG1hbmFnZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Globe.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9HbG9iZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Home.razor]
