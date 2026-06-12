@@ -11,14 +11,14 @@
 
 ### Commander Dashboard
 - [Fleet](https://ophelialabs.github.io/c2/html/d3.html)
-- APIs here
+- APIs:
 
 ### Physician Dashboard
 - [View Physician Dashboard](https://www.telerik.com/design-system/docs/templates/previews/healthcare-dashboard/)
     | [Kendo React Health App](https://telerik.github.io/kendo-react/react-health-app/#/)
     | [Blazor Healthcare Dashboard](https://demos.telerik.com/blazor-healthcare/patients)
     | [.NET Core Healthcare Dashboard](https://demos.telerik.com/aspnet-core-healthcare/patients)
-- APIs here
+- APIs:
     | [DABI](https://dabi.loni.usc.edu/)
     | [DANDI](https://www.braininitiative.org/toolmakers/resources/dandi/)
     | [BrainRender](https://github.com/brainglobe/brainrender)
