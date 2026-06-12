@@ -4,6 +4,7 @@
 ### C2
 - [Saturn](https://ophelialabs.github.io/internal/apps/saturn.html)
     | [2](https://ophelialabs.github.io/c2/html/d2.html)
+    | [qnet](https://ophelialabs.github.io/c2/html/qnet.html)
     | [Syglass](https://www.syglass.io/)
 
 ### Commander Dashboard
