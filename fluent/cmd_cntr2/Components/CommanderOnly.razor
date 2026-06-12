@@ -1,0 +1,12 @@
+@using cmd_cntr.Services
+@inject AuthService AuthService
+
+@if (AuthService.HasRole("commander"))
+{
+    @ChildContent
+}
+
+@code {
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+}

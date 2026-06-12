@@ -26,18 +26,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr/Components/CommanderOnly.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db21tYW5kZXJPbmx5LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/jesse/company/Platform/fluent/cmd_cntr/Components/Dashboards/CommanderDashboard.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9EYXNoYm9hcmRzL0NvbW1hbmRlckRhc2hib2FyZC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/jesse/company/Platform/fluent/cmd_cntr/Components/Dashboards/PhysicianDashboard.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9EYXNoYm9hcmRzL1BoeXNpY2lhbkRhc2hib2FyZC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/jesse/company/Platform/fluent/cmd_cntr/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,24 +42,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/jesse/company/Platform/fluent/cmd_cntr/Components/Pages/Login.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Mb2dpbi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/jesse/company/Platform/fluent/cmd_cntr/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/jesse/company/Platform/fluent/cmd_cntr/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/jesse/company/Platform/fluent/cmd_cntr/Components/PhysicianOnly.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QaHlzaWNpYW5Pbmx5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/jesse/company/Platform/fluent/cmd_cntr/Components/Routes.razor]
