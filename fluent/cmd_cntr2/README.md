@@ -1,6 +1,7 @@
 # Getting Started
 - [Fluent-UI](https://www.fluentui-blazor.net/)
   | [AD](https://entra.microsoft.com)
+  | [Figma](https://www.figma.com/community/file/1547572228024625595/sharepoint-intranet-design-templates)
 - [Generic Constraints](https://www.youtube.com/watch?v=0qtwYT4n2CM) / [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
 
 ## Dashboards
