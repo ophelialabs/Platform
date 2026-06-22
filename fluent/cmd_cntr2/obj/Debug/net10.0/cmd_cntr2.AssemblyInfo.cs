@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cmd_cntr2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68a553011784b49bc92b702b7fb83f86a8cdcb4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec2d28d36fcb3bd306af8604bd3f0eb9d964accf")]
 [assembly: System.Reflection.AssemblyProductAttribute("cmd_cntr2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cmd_cntr2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

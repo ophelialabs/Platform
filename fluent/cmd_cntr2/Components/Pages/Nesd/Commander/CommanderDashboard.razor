@@ -1,10 +1,16 @@
 @page "/commanderdashboard"
 @using Microsoft.FluentUI.AspNetCore.Components
 
+<div class="iframe-container">
+    <iframe src="https://ophelialabs.github.io/c2/dash/dashboard.html" 
+            title="Dashboard" 
+            class="dashboard-iframe"></iframe>
+</div>
+
 <div class="dashboard-grid">
     <div class="dashboard-card">
         <div class="card-header commander">
-            <FluentIcon Value="@(new Icons.Regular.Size24.Shield())" />
+            <FluentIcon Value="@shieldIcon" />
             <h3>Operational Status</h3>
         </div>
         <div class="card-content">
@@ -25,7 +31,7 @@
 
     <div class="dashboard-card">
         <div class="card-header commander">
-            <FluentIcon Value="@(new Icons.Regular.Size24.People())" />
+            <FluentIcon Value="@peopleIcon" />
             <h3>Personnel Overview</h3>
         </div>
         <div class="card-content">
@@ -46,7 +52,7 @@
 
     <div class="dashboard-card">
         <div class="card-header commander">
-            <FluentIcon Value="@(new Icons.Regular.Size24.Document())" />
+            <FluentIcon Value="@documentIcon" />
             <h3>Recent Reports</h3>
         </div>
         <div class="card-content">
@@ -60,7 +66,7 @@
 
     <div class="dashboard-card">
         <div class="card-header commander">
-            <FluentIcon Value="@(new Icons.Regular.Size24.HeartPulse())" />
+            <FluentIcon Value="@heartIcon" />
             <h3>Medical Summary</h3>
         </div>
         <div class="card-content">
@@ -81,9 +87,27 @@
 </div>
 
 @code {
+    private readonly Icon shieldIcon = new Icons.Regular.Size24.Shield();
+    private readonly Icon peopleIcon = new Icons.Regular.Size24.People();
+    private readonly Icon documentIcon = new Icons.Regular.Size24.Document();
+    private readonly Icon heartIcon = new Icons.Regular.Size24.HeartPulse();
 }
 
 <style>
+    .iframe-container {
+        width: 100%;
+        margin-bottom: 30px;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .dashboard-iframe {
+        width: 100%;
+        height: 600px;
+        border: none;
+    }
+
     .dashboard-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

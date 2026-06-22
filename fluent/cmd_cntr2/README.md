@@ -1,3 +1,8 @@
+![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-22-33.png>)
+![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-22-57.png>)
+![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-23-04.png>)
+![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-23-23.png>)
+
 # Getting Started
 - [Fluent-UI](https://www.fluentui-blazor.net/)
   | [AD](https://entra.microsoft.com)

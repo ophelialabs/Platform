@@ -38,28 +38,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Dashboards/CommanderDashboard.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9EYXNoYm9hcmRzL0NvbW1hbmRlckRhc2hib2FyZC5yYXpvcg==
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Admin/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Mb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Dashboards/PhysicianDashboard.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9EYXNoYm9hcmRzL1BoeXNpY2lhbkRhc2hib2FyZC5yYXpvcg==
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/C2/Globe.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DMi9HbG9iZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Fincen.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9GaW5jZW4ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Fleetmanager.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9GbGVldG1hbmFnZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Globe.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9HbG9iZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/c2/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9jMi9Ib21lLnJhem9y
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/C2/Q_net.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DMi9RX25ldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Counter.razor]
@@ -74,8 +62,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Login.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Mb2dpbi5yYXpvcg==
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Nesd/Commander/CommanderDashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9OZXNkL0NvbW1hbmRlci9Db21tYW5kZXJEYXNoYm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Nesd/Commander/Fincen.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9OZXNkL0NvbW1hbmRlci9GaW5jZW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Nesd/Commander/Fleetmanager.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9OZXNkL0NvbW1hbmRlci9GbGVldG1hbmFnZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Nesd/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9OZXNkL0hvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/Nesd/Physician/PhysicianDashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9OZXNkL1BoeXNpY2lhbi9QaHlzaWNpYW5EYXNoYm9hcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/jesse/company/Platform/fluent/cmd_cntr2/Components/Pages/NotFound.razor]
