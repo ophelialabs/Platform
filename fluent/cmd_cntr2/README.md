@@ -1,7 +1,3 @@
-![banner](<wwwroot/assets/app/Screenshot 2026-06-22 at 2.28.54 PM.png>)
-- Physician: Blue | Commander: Purple
-- when user is selected from commanderdashboard table, display: user profile, **live-view**, fincen dashboard etc
-
 # Getting Started
 - [Fluent-UI](https://www.fluentui-blazor.net/)
   | [AD](https://entra.microsoft.com)
@@ -9,17 +5,14 @@
 - [Generic Constraints](https://www.youtube.com/watch?v=0qtwYT4n2CM) / [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
 
 ## Dashboards
-### C2
-- [Saturn](https://ophelialabs.github.io/internal/apps/saturn.html)
-    | [2](https://ophelialabs.github.io/c2/html/d2.html)
-    | [qnet](https://ophelialabs.github.io/c2/html/qnet.html)
-    | [Syglass](https://www.syglass.io/)
-
 ### Commander Dashboard
+![banner](<wwwroot/assets/app/Adobe Express - Screen Recording 2026-06-22 at 5.42.21 PM.gif>)
+- When user is selected from commanderdashboard table, display: user profile, **live-view**, fincen dashboard etc
 - [Fleet](https://ophelialabs.github.io/c2/html/d3.html)
 - APIs:
 
 ### Physician Dashboard
+![banner](<wwwroot/assets/app/Screenshot 2026-06-22 at 6.02.56 PM.png>)
 - [View Physician Dashboard](https://www.telerik.com/design-system/docs/templates/previews/healthcare-dashboard/)
     | [Kendo React Health App](https://telerik.github.io/kendo-react/react-health-app/#/)
     | [Blazor Healthcare Dashboard](https://demos.telerik.com/blazor-healthcare/patients)
@@ -37,6 +30,14 @@
     | [Blazor Financial Dashboard](https://demos.telerik.com/blazor-financial-dashboard)
     | [.Net Core Finance Dashboard](https://demos.telerik.com/aspnet-core/finance-dashboard)
 - APIs:
+
+### C2
+![banner](<wwwroot/assets/app/Screenshot 2026-06-22 at 6.10.35 PM.png>)
+![banner](<wwwroot/assets/app/221E99F5-3D39-405D-B593-E46C0321336B_1_102_a.jpeg>)
+- [Saturn](https://ophelialabs.github.io/internal/apps/saturn.html)
+    | [2](https://ophelialabs.github.io/c2/html/d2.html)
+    | [qnet](https://ophelialabs.github.io/c2/html/qnet.html)
+    | [Syglass](https://www.syglass.io/)
 
 ## DataBase
 - [EF Core](https://learn.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
