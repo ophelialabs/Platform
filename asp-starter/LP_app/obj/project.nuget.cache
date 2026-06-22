@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RqbGW/gRc4w=",
+  "dgSpecHash": "/XIRtjSeN4Q=",
   "success": true,
-  "projectFilePath": "/home/jesse/company/Platform/asp-starter/LP_app/LP_app.csproj",
+  "projectFilePath": "/Users/jaylabs/Downloads/Platform/asp-starter/LP_app/LP_app.csproj",
   "expectedPackageFiles": [
-    "/home/jesse/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.6/microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512"
+    "/Users/jaylabs/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0-rc.1.25451.107/microsoft.aspnetcore.app.internal.assets.10.0.0-rc.1.25451.107.nupkg.sha512"
   ],
   "logs": []
 }

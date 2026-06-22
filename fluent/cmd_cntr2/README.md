@@ -1,7 +1,6 @@
-![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-22-33.png>)
-![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-22-57.png>)
-![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-23-04.png>)
-![banner](<wwwroot/assets/app/Screenshot from 2026-06-21 14-23-23.png>)
+![banner](<wwwroot/assets/app/Screenshot 2026-06-22 at 2.28.54 PM.png>)
+- Physician: Blue | Commander: Purple
+- when user is selected from commanderdashboard table, display: user profile, **live-view**, fincen dashboard etc
 
 # Getting Started
 - [Fluent-UI](https://www.fluentui-blazor.net/)
