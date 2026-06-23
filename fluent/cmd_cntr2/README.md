@@ -38,7 +38,7 @@
     | [Saturn](https://ophelialabs.github.io/internal/apps/saturn.html)
     | [2](https://ophelialabs.github.io/c2/html/d2.html)
     | [qnet](https://ophelialabs.github.io/c2/html/qnet.html)
-    | [Syglass](https://www.syglass.io/science) (Multi-User Collaboration: The ***Table***)
+    | [Syglass](https://www.syglass.io/science) (Multi-User Collaboration: ***The Table***)
 
 ## DataBase
 - [EF Core](https://learn.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
