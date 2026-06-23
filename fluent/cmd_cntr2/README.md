@@ -49,6 +49,7 @@ dotnet run --project ~/Downloads/Platform/fluent/cmd_cntr2
     | [2](https://ophelialabs.github.io/c2/html/d2.html)
     | [qnet](https://ophelialabs.github.io/c2/html/qnet.html)
     | [Syglass](https://www.syglass.io/science) (Multi-User Collaboration: ***The Table***)
+    | [CJADC2](https://www.ai.mil/Initiatives/CJADC2/)
 
 ## DataBase
 - [EF Core](https://learn.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
