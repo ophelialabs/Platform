@@ -1,4 +1,14 @@
 # Getting Started
+```
+cd ~/Downloads/Platform/fluent/cmd_cntr2
+dotnet run
+```
+
+or
+```
+dotnet run --project ~/Downloads/Platform/fluent/cmd_cntr2
+```
+
 - [Fluent-UI](https://www.fluentui-blazor.net/)
   | [AD](https://entra.microsoft.com)
   | [Figma](https://www.figma.com/community/file/1547572228024625595/sharepoint-intranet-design-templates)
