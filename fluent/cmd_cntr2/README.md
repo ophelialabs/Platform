@@ -5,12 +5,6 @@
 - [Generic Constraints](https://www.youtube.com/watch?v=0qtwYT4n2CM) / [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
 
 ## Dashboards
-### Commander Dashboard
-![banner](<wwwroot/assets/app/Adobe Express - Screen Recording 2026-06-22 at 5.42.21 PM.gif>)
-- When user is selected from commanderdashboard table, display: user profile, **live-view**, fincen dashboard etc
-- [Fleet](https://ophelialabs.github.io/c2/html/d3.html)
-- APIs:
-
 ### Physician Dashboard
 ![banner](<wwwroot/assets/app/Screenshot 2026-06-22 at 6.02.56 PM.png>)
 - [View Physician Dashboard](https://www.telerik.com/design-system/docs/templates/previews/healthcare-dashboard/)
@@ -23,6 +17,12 @@
     | [BrainRender](https://github.com/brainglobe/brainrender)
 - Refs:
      [DartBrains](https://dartbrains.org/Introduction_to_Neuroimaging_Data/)
+  
+### Commander Dashboard
+![banner](<wwwroot/assets/app/Adobe Express - Screen Recording 2026-06-22 at 5.42.21 PM.gif>)
+- When user is selected from commanderdashboard table, display: user profile, **live-view**, fincen dashboard etc
+- [Fleet](https://ophelialabs.github.io/c2/html/d3.html)
+- APIs:
 
 ### Financial Dashboard
 - [View Fintech Dashboard](https://www.telerik.com/design-system/docs/templates/previews/fintech-dashboard/)
