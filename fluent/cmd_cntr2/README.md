@@ -20,7 +20,7 @@
   
 ### Commander Dashboard
 ![banner](<wwwroot/assets/app/Adobe Express - Screen Recording 2026-06-22 at 5.42.21 PM.gif>)
-- When user is selected from commanderdashboard table, display: user profile, **live-view**, fincen dashboard etc
+- When user is selected from commanderdashboard table, display: user profile, **live-view**, the following ***FINCEN*** dashboard etc
 - [Fleet](https://ophelialabs.github.io/c2/html/d3.html)
 - APIs:
 
