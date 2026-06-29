@@ -1,5 +1,6 @@
 # Getting Started
-- Build Commander first. Build ON-TOP
+- B(ase) x H(eight) or R(ows) x C(olumns)
+- Understanding Tables | Export as CSV
   
 ```
 cd ~/Downloads/Platform/fluent/cmd_cntr2
