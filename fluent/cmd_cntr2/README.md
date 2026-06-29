@@ -1,4 +1,6 @@
 # Getting Started
+- Build Commander first. Build ON-TOP
+  
 ```
 cd ~/Downloads/Platform/fluent/cmd_cntr2
 dotnet run
