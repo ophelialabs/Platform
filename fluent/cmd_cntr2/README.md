@@ -1,6 +1,6 @@
 # Getting Started
 - B(ase) x H(eight) or R(ows) x C(olumns)
-- Understanding Tables | Export as CSV
+- Understanding Tables | Export as CSV |  Remember: "Sheets"!
   
 ```
 cd ~/Downloads/Platform/fluent/cmd_cntr2
